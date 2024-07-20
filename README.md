@@ -1,6 +1,6 @@
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-- 🔭 I’m currently working on [Sentiment Analysis](https://github.com/venkat7794/Sentiment-Analysis.git)
+- 🔭 I’m currently working on [Credit Card Fraud Detection](https://github.com/venkat7794/credit-card-fraud-detection.git)
 
 - 🌱 I’m currently learning **Generative AI (Google)**
 
