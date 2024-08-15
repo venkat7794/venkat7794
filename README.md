@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **venkatasreekanth1510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xs80Z5SplZ2ozhF7AFxGc4GsrWxddhHo/view?usp=drive_link](https://drive.google.com/file/d/1xs80Z5SplZ2ozhF7AFxGc4GsrWxddhHo/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xs80Z5SplZ2ozhF7AFxGc4GsrWxddhHo/view?usp=drive_link](https://drive.google.com/file/d/1PDhi0ZM3kbSsk0jnDQYsNr4526XGnqKr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
