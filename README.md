@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/venkata sreekanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata sreekanth" height="30" width="40" /></a>
+<a href="linkedin.com/in/venkata-sreekanth-8033982a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata sreekanth" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/venkatasreeaa2r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venkatasreeaa2r" height="30" width="40" /></a>
 </p>
 
